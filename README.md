@@ -1,0 +1,1 @@
+atue como um engenheiro de softwere e construa uma API com node, express e cros faça uma api simples que permita apenas uma requisição GET de "Bem vindo a API" não faça multiplos arquiivos crie apenas monolito com o codigo principal de configuração e porta de entrada de requisição GET
